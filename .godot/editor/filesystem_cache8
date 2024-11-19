@@ -1,0 +1,10 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1732045423
+export_presets.cfg::TextFile::-1::1732043348::0::1::::<><>::
+icon.svg::CompressedTexture2D::3495429156914614704::1732042278::1732042697::1::::<><>::
+main.tscn::PackedScene::5037976351084955638::1732042278::0::1::::<><>::res://code/main.gd
+README.md::TextFile::-1::1732043759::0::1::::<><>::
+::res://android/::1732042772
+::res://assets/::1732042278
+::res://code/::1732042278
+main.gd::GDScript::-1::1732042278::0::1::::<>Node2D<>::
